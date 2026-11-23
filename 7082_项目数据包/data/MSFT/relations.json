@@ -1,0 +1,242 @@
+{
+  "ticker": "MSFT",
+  "source_file": "0001193125-26-323660_msft-20260630.htm.txt",
+  "source_path": "F:\\claude\\7082\\project\\data\\MSFT\\filings\\0001193125-26-323660_msft-20260630.htm.txt",
+  "n_matches": 39,
+  "matches": [
+    {
+      "type": "customer_concentration",
+      "sentence": "Determining whether products and services are considered distinct performance obligations that should be accounted for separately versus together may require significant judgment.",
+      "char_offset": 214371,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "When a cloud-based service includes both on-premises software licenses and cloud services, judgment is required to determine whether the software license is considered distinct and accounted for separately, or not distinct and accounted for together with the cloud service and recognized over time.",
+      "char_offset": 214551,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "Certain cloud services, primarily Office 365, depend on a significant level of integration, interdependency, and interrelation between the desktop applications and cloud services, and are accounted for together as one performance obligation.",
+      "char_offset": 214850,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "45 PART II Item 7 Our products are generally sold with a right of return, we may provide other credits or incentives, and in certain instances we estimate customer usage of our products and services, which are accounted for as variable consideration when determining the amount of revenue to recognize.",
+      "char_offset": 216426,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "For equity investments accounted for under the measurement alternative, we evaluate whether observable changes in price have occurred in orderly transactions for identical or similar investments of the same issuer.",
+      "char_offset": 219462,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "We enter into contracts that can include various combinations of products and services, which are generally capable of being distinct and accounted for as separate performance obligations.",
+      "char_offset": 238676,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "In these cases, the hardware and software license are accounted for as a single performance obligation and revenue is recognized at the point in time when ownership is transferred to resellers or directly to end customers through retail stores and online marketplaces.",
+      "char_offset": 241527,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "Our products are generally sold with a right of return, we may provide other credits or incentives, and in certain instances we estimate customer usage of our products and services, which are accounted for as variable consideration when determining the amount of revenue to recognize.",
+      "char_offset": 244119,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "Therefore, our VIE investments are not consolidated and the majority are accounted for under the equity method of accounting or the measurement alternative.",
+      "char_offset": 256685,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "We have an investment accounted for under the equity method that represents an approximate 25 % interest on an as-converted basis.",
+      "char_offset": 257012,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "We have lease agreements with lease and non-lease components, which are generally accounted for separately.",
+      "char_offset": 264341,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "1,959 Total Revenue $ 331,839 $ 281,724 $ 245,122 Cost of revenue 106,374 87,831 74,114 Operating expenses 70,228 65,365 61,575 Operating income $ 155,237 $ 128,528 $ 109,433 No sales to an individual customer or country other than the United States accounted for more than 10% of revenue for fiscal years 2026, 2025, or 2024.",
+      "char_offset": 320460,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "cant judgment is exercised by the Company in determining revenue recognition for certain customer agreements, and includes the following: • Determination of whether products and services are considered distinct performance obligations that should be accounted for separately versus together, such as software licenses and related services that are sold with cloud-based services.",
+      "char_offset": 327113,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Dynamics Products and Cloud Services Dynamics provides cloud-based and on-premises business solutions for financial management, enterprise resource planning (“ERP”), customer relationship management (“CRM”), and supply chain management, as well as agentic AI and other low code application development platforms, for small and medium businesses, large organizations, and divisions of global enterprises.",
+      "char_offset": 52827,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Azure AI Foundry is a unified platform for developers to design, customize, and manage AI applications and agents.",
+      "char_offset": 56762,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "We engage third-party manufacturers to produce our devices and have implemented measures to enhance supply chain efficiency and resilience, including the ability to relocate production geographically.",
+      "char_offset": 69785,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "There are few qualified suppliers for certain components of our servers and devices.",
+      "char_offset": 69986,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Extended or unforeseen disruptions, or limited availability of components from these suppliers could impact our ability to operate our datacenters and manufacture devices on time to meet consumer demand.",
+      "char_offset": 70071,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "sly undertake attacks that pose threats to our customers and our internal infrastructure, and we have experienced cybersecurity incidents in which such actors have gained unauthorized access to our systems and data, as well as customer, partner, and supplier systems and data.",
+      "char_offset": 102229,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "esses in our or third-party hardware, software, or other infrastructure to attack our products and services or gain access to our networks and datacenters; using social engineering and AI-assisted techniques to induce our employees, users, partners, suppliers, or customers to disclose sensitive information, such as passwords, or take other actions to gain access to our data or our users’ or customers’ data; or acting in a coordinated manner or conducting coordinated attacks.",
+      "char_offset": 102694,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Nation-state attacks against us, our customers, suppliers, or partners have and may continue to intensify due to our transparency to our customers, other stakeholders, and the public about cyberattacks, and during elections or periods of intense diplomatic or armed conflict.",
+      "char_offset": 104114,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "As a result of these and other factors, we may not be able to provide prompt, full, and reliable information about the incident to our customers, partners, suppliers, regulators, and the public.",
+      "char_offset": 106394,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Malicious actors have and may continue to exploit the supply chain to compromise our systems by, for example, injecting malware, including through software updates or compromised supplier or open-source software code, accounts, or hardware.",
+      "char_offset": 108664,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Incidents involving the supply chain, including third-party vendors, suppliers, service providers, open-source software, or customer environments, may adversely affect our systems and our products and services, even where our own systems are not directly compromised.",
+      "char_offset": 108905,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "There are limited suppliers for certain critical device and datacenter components, and those items are in short supply.",
+      "char_offset": 129844,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Our competitors are also scaling their infrastructure and use some of the same suppliers and materials for hardware components as we do, which impacts price and availability.",
+      "char_offset": 130196,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "In addition to infrastructure, other products such as XBOX consoles, Surface devices, and other hardware are similarly subject to supply chain challenges and disruptions, resulting in shortages which could adversely affect our business, operations, financial condition, and results of operations.",
+      "char_offset": 132038,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "The cost or availability of critical resources necessary to support our infrastructure, including power, networking supplies, servers, graphics processing units, and other components, could be adversely affected by a variety of factors, including supply chain and energy issues, evolving environmental or other regulations, and geopolitical disruptions.",
+      "char_offset": 132784,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "import controls restrict us from integrating certain information and communication technologies into our supply chain and allow for government review of transactions involving information and communications technology from countries determined to be foreign adversaries.",
+      "char_offset": 140746,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Supply chain regulations may impact the availability of goods or result in additional regulatory scrutiny.",
+      "char_offset": 141017,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "tariffs has triggered economic uncertainty and could impact cloud and devices supply chain cost competitiveness.",
+      "char_offset": 141792,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "These include product safety, quality, or accessibility issues, our environmental impact and sustainability, supply chain practices, or human rights record.",
+      "char_offset": 153256,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "A disruption or failure of our systems, operations, or supply chain because of a major earthquake, weather event, cyberattack, terrorist attack, pandemic, or other catastrophic event could cause delays in completing sales, providing services, or performing other critical functions.",
+      "char_offset": 156442,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "These conditions also may add uncertainty to the timing and budget for technology investment decisions by our customers and may cause supply chain disruptions.",
+      "char_offset": 157947,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Our devices are primarily manufactured by third-party contract manufacturers.",
+      "char_offset": 180633,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "However, some of our products contain certain components for which there are very few qualified suppliers.",
+      "char_offset": 180868,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Further, global, regional, and local economic developments and changes in global trade policies such as restrictions on international trade, including tariffs and other controls on imports or exports, could result in increased supply chain challenges, cost volatility, and consumer and economic uncertainty which may adversely affect our results of operations.",
+      "char_offset": 182076,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "9 billion for fiscal year 2026, primarily due to an increase in cash received from customers and a decrease in cash used to pay income taxes, offset in part by an increase in cash paid to suppliers.",
+      "char_offset": 207658,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Additionally, as of June 30, 2026, restricted investments pursuant to a supplier agreement were $ 11.",
+      "char_offset": 247623,
+      "source_file": "0001193125-26-323660_msft-20260630.htm.txt"
+    }
+  ]
+}

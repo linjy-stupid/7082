@@ -1,0 +1,10 @@
+{
+  "ticker": "MSFT",
+  "source": "SEC EDGAR 8-K exhibit (official)",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436122/msft-ex99_1.htm",
+  "form": "8-K",
+  "accession": "0001193125-26-436122",
+  "retrieved_at": "2026-11-18T01:22:02+08:00",
+  "chars": 19705,
+  "sha256": "4fda9401937b6afd00f6749d058bbfe7ca300bd332b7a90334c30b6648d1e5cf"
+}

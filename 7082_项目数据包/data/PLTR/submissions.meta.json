@@ -1,0 +1,8 @@
+{
+  "ticker": "PLTR",
+  "source": "SEC EDGAR submissions (official)",
+  "source_url": "https://data.sec.gov/submissions/CIK0001321655.json",
+  "retrieved_at": "2026-11-18T01:12:50+08:00",
+  "bytes": 159424,
+  "sha256": "ba287b237b989400149afab3b0714ae37b0538d2f693737964aab804ddfdefa3"
+}

@@ -1,0 +1,408 @@
+{
+  "ticker": "NVDA",
+  "source": "Seeking Alpha public RSS feed",
+  "source_url": "https://seekingalpha.com/symbol/NVDA/feed.xml",
+  "retrieved_at": "2026-11-18T23:11:57+08:00",
+  "usage_note": "RSS 版权声明限定 personal, non-commercial use；本文件只保存标题/作者/日期/链接元数据，不转载正文。正文需订阅，未获取。",
+  "n_items": 20,
+  "items": [
+    {
+      "title": "New details emerge in SpaceX's $40B debt plan to finance chips: report",
+      "link": "https://seekingalpha.com/news/4674196-new-details-emerge-in-spacexs-40b-debt-plan-to-finance-chips-report?source=feed_symbol_NVDA",
+      "published": "2026-11-18T10:11:03-05:00",
+      "guid": "4674196",
+      "authors": [],
+      "symbols": [
+        "SPCX",
+        "NVDA",
+        "APO",
+        "META"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "ROCY Vs. XYLD: JPMorgan Fixed The Covered Call Problem",
+      "link": "https://seekingalpha.com/article/4969609-rocy-vs-xyld-jpmorgan-fixed-the-covered-call-problem?source=feed_symbol_NVDA",
+      "published": "2026-11-18T10:06:36-05:00",
+      "guid": "4969609",
+      "authors": [
+        "Cain Lee",
+        "ETF Portfolio Mechanics"
+      ],
+      "symbols": [
+        "SPYI",
+        "SPX",
+        "JEPI",
+        "GPIX",
+        "NVDA",
+        "MSFT",
+        "AAPL",
+        "AVGO",
+        "DIVO",
+        "ROCY",
+        "XYLD"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Alger Capital Appreciation Fund Q3 2026 Portfolio Activity",
+      "link": "https://seekingalpha.com/article/4969605-alger-capital-appreciation-fund-q3-2026-portfolio-activity?source=feed_symbol_NVDA",
+      "published": "2026-11-18T10:04:00-05:00",
+      "guid": "4969605",
+      "authors": [
+        "Fred Alger Management",
+        "Fund Letter Stock Ideas"
+      ],
+      "symbols": [
+        "ACAAX",
+        "MSFT",
+        "NVDA",
+        "NTRA",
+        "WDC",
+        "NBIS",
+        "ALAB",
+        "ACAZX",
+        "ALCCX"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Credo Q2: Nvidia Just Unleashed A $45 Billion Game Changer",
+      "link": "https://seekingalpha.com/article/4969600-credo-q2-nvidia-just-unleashed-a-45-billion-game-changer?source=feed_symbol_NVDA",
+      "published": "2026-11-18T10:02:50-05:00",
+      "guid": "4969600",
+      "authors": [
+        "Summit Research"
+      ],
+      "symbols": [
+        "MRVL",
+        "LITE",
+        "NVDA",
+        "ZNVD:CA",
+        "NVDA:CA",
+        "MTPDL",
+        "MSFT:CA",
+        "MRV:CA",
+        "LUME:CA",
+        "CRDO"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Wall Street falls as investors gauge Nvidia earnings",
+      "link": "https://seekingalpha.com/news/4674041-us-stock-futures-rise-as-nvidia-earnings-beat-lifts-ai-sentiment?source=feed_symbol_NVDA",
+      "published": "2026-11-18T09:51:25-05:00",
+      "guid": "4674041",
+      "authors": [],
+      "symbols": [
+        "SP500",
+        "COMP:IND",
+        "DJI",
+        "NVDA",
+        "TJX",
+        "CRWV"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Biggest stock movers Wednesday: NVDA, TGT, and more",
+      "link": "https://seekingalpha.com/news/4674042-biggest-stock-movers-wednesday-nvda-crdo-and-more?source=feed_symbol_NVDA",
+      "published": "2026-11-18T09:46:11-05:00",
+      "guid": "4674042",
+      "authors": [],
+      "symbols": [
+        "TGT",
+        "NVDA",
+        "TTWO",
+        "TJX",
+        "SLS",
+        "AAOI",
+        "ARDT"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Nebius: Surging Capital Needs Amidst Tightening Liquidity",
+      "link": "https://seekingalpha.com/article/4969592-nebius-surging-capital-needs-amidst-tightening-liquidity?source=feed_symbol_NVDA",
+      "published": "2026-11-18T09:44:01-05:00",
+      "guid": "4969592",
+      "authors": [
+        "David Desjardins"
+      ],
+      "symbols": [
+        "NBIS",
+        "CRWV",
+        "NVDA",
+        "IREN",
+        "CRWV:CA",
+        "NVDA:CA",
+        "ZNVD:CA"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Options traders repositioned for an Nvidia recovery as volatility rose more than 50%",
+      "link": "https://seekingalpha.com/news/4674195-options-traders-repositioned-for-an-nvidia-recovery-as-volatility-rose-more-than-50-percent?source=feed_symbol_NVDA",
+      "published": "2026-11-18T09:28:13-05:00",
+      "guid": "4674195",
+      "authors": [],
+      "symbols": [
+        "NVDA"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Nvidia: It's A Massive Opportunity (Earnings Review, Rating Upgrade)",
+      "link": "https://seekingalpha.com/article/4969582-nvidia-its-a-massive-opportunity-earnings-review-rating-upgrade?source=feed_symbol_NVDA",
+      "published": "2026-11-18T09:25:28-05:00",
+      "guid": "4969582",
+      "authors": [
+        "Danil Sereda"
+      ],
+      "symbols": [
+        "NVDA",
+        "NVDA:CA",
+        "ZNVD:CA"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Microsoft sees growing demand for Nvidia alternatives after Huang exit",
+      "link": "https://seekingalpha.com/news/4674171-microsoft-sees-growing-demand-for-nvidia-alternatives-after-huang-exit?source=feed_symbol_NVDA",
+      "published": "2026-11-18T09:16:06-05:00",
+      "guid": "4674171",
+      "authors": [],
+      "symbols": [
+        "MSFT",
+        "NVDA",
+        "AMD",
+        "AVGO"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Nvidia: Great Q3, But Jensen Huang's Exit Puts Top Talent In Play",
+      "link": "https://seekingalpha.com/article/4969577-nvidia-great-q3-but-jensen-huang-exit-puts-top-talent-in-play?source=feed_symbol_NVDA",
+      "published": "2026-11-18T09:09:03-05:00",
+      "guid": "4969577",
+      "authors": [
+        "Apollonian Research"
+      ],
+      "symbols": [
+        "NVDA",
+        "NVDA:CA",
+        "ZNVD:CA"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Citadel Securities flags surge in retail put options led by S&P 500 hedges",
+      "link": "https://seekingalpha.com/news/4674156-citadel-securities-flags-surge-in-retail-put-options-led-by-s-and-p-500-hedges?source=feed_symbol_NVDA",
+      "published": "2026-11-18T08:57:25-05:00",
+      "guid": "4674156",
+      "authors": [],
+      "symbols": [
+        "SPY",
+        "SP500",
+        "QQQ",
+        "DIA",
+        "IVV",
+        "RSP",
+        "SMH",
+        "XLK",
+        "AMD",
+        "NVDA",
+        "MU",
+        "TTWO",
+        "TSM",
+        "ASML",
+        "SH",
+        "DOG",
+        "SSO",
+        "DDM",
+        "DXD",
+        "QID",
+        "SDS",
+        "UPRO",
+        "TQQQ",
+        "SQQQ",
+        "SDOW",
+        "VOO",
+        "SPCX",
+        "SPXU",
+        "QQQM"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Nvidia: The Future Won't Be As Bright As Its Past (Rating Downgrade)",
+      "link": "https://seekingalpha.com/article/4969571-nvidia-the-future-wont-be-as-bright-as-its-past-rating-downgrade?source=feed_symbol_NVDA",
+      "published": "2026-11-18T08:50:37-05:00",
+      "guid": "4969571",
+      "authors": [
+        "Tech Stock Pros"
+      ],
+      "symbols": [
+        "SMCI",
+        "DELL",
+        "TSM",
+        "DELL:CA",
+        "SMCI:CA",
+        "NVDA",
+        "NVDA:CA",
+        "ZNVD:CA"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Nebius Will Likely Continue To Devastate Retail Investors",
+      "link": "https://seekingalpha.com/article/4969569-nebius-will-likely-continue-to-devastate-retail-investors?source=feed_symbol_NVDA",
+      "published": "2026-11-18T08:49:16-05:00",
+      "guid": "4969569",
+      "authors": [
+        "Rational Techne"
+      ],
+      "symbols": [
+        "NBIS",
+        "CRWV",
+        "IREN",
+        "NVDA"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Nvidia Is A Strong Buy - The Huang Affair Overreaction Is Fully Priced In",
+      "link": "https://seekingalpha.com/article/4969563-nvidia-is-a-strong-buy-the-huang-affair-overreaction-is-fully-priced-in?source=feed_symbol_NVDA",
+      "published": "2026-11-18T08:31:45-05:00",
+      "guid": "4969563",
+      "authors": [
+        "Anthony Cataldo"
+      ],
+      "symbols": [
+        "AMD",
+        "AMD:CA",
+        "ZAMD:CA",
+        "AVGO",
+        "AVGO:CA",
+        "ZAVG:CA",
+        "TSM",
+        "TSMWF",
+        "INTC",
+        "INTC:CA",
+        "ZINT:CA",
+        "QCOM",
+        "QCOM:CA",
+        "NVDA",
+        "NVDA:CA",
+        "ZNVD:CA"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Nvidia’s beat and raise point to strong AI chip demand, analysts say",
+      "link": "https://seekingalpha.com/news/4674077-nvidias-beat-and-raise-point-to-strong-ai-chip-demand-analysts-say?source=feed_symbol_NVDA",
+      "published": "2026-11-18T08:04:54-05:00",
+      "guid": "4674077",
+      "authors": [],
+      "symbols": [
+        "NVDA"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Wall Street Breakfast Podcast: Nvidia Beats, Affirms Jensen Era Over",
+      "link": "https://seekingalpha.com/article/4969547-wall-street-breakfast-podcast-nvidia-beats-affirms-jensen-era-over?source=feed_symbol_NVDA",
+      "published": "2026-11-18T07:27:00-05:00",
+      "guid": "4969547",
+      "authors": [
+        "Wall Street Breakfast",
+        "Seeking Alpha Podcasts"
+      ],
+      "symbols": [
+        "NVDA",
+        "COST"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Beyond Nvidia And Anthropic: 3 Important Stock Catalysts To Watch Into December",
+      "link": "https://seekingalpha.com/article/4969554-beyond-nvidia-anthropic-3-important-stock-catalysts-to-watch-into-december?source=feed_symbol_NVDA",
+      "published": "2026-11-18T07:05:00-05:00",
+      "guid": "4969554",
+      "authors": [
+        "Christine Short"
+      ],
+      "symbols": [
+        "NVDA",
+        "ANT",
+        "WMT",
+        "TGT",
+        "HD",
+        "FICO",
+        "COST",
+        "F",
+        "TSM"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "SMH: Another Buy The Dip Moment",
+      "link": "https://seekingalpha.com/article/4969507-smh-another-buy-the-dip-moment?source=feed_symbol_NVDA",
+      "published": "2026-11-18T06:29:28-05:00",
+      "guid": "4969507",
+      "authors": [
+        "Brett Ashcroft Green"
+      ],
+      "symbols": [
+        "SOXX",
+        "NVDA",
+        "ASML",
+        "KLAC",
+        "GOOGL",
+        "AMZN",
+        "MSFT",
+        "ORCL",
+        "SMH"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "The AI Trade Will Move On Without Jensen Huang",
+      "link": "https://seekingalpha.com/article/4969506-the-ai-trade-will-move-on-without-jensen-huang?source=feed_symbol_NVDA",
+      "published": "2026-11-18T06:23:03-05:00",
+      "guid": "4969506",
+      "authors": [
+        "JR Research"
+      ],
+      "symbols": [
+        "NVDA",
+        "SPCX",
+        "ANT",
+        "AMD",
+        "AVGO",
+        "INTC",
+        "AMZN",
+        "TSM",
+        "CRWV",
+        "BAI",
+        "AIQ",
+        "GRID",
+        "SOXX",
+        "SMH",
+        "SOX",
+        "SPY",
+        "DIA",
+        "QQQ",
+        "IVV",
+        "VOO",
+        "IWM",
+        "SPX",
+        "SP500",
+        "NDX",
+        "DJI",
+        "RTY"
+      ],
+      "is_primary": true
+    }
+  ]
+}

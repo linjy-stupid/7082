@@ -1,0 +1,182 @@
+{
+  "ticker": "PLTR",
+  "source_file": "0001321655-26-000011_pltr-20251231.htm.txt",
+  "source_path": "F:\\claude\\7082\\project\\data\\PLTR\\filings\\0001321655-26-000011_pltr-20251231.htm.txt",
+  "n_matches": 29,
+  "matches": [
+    {
+      "type": "customer_concentration",
+      "sentence": "If existing customers do not make subsequent purchases from us or renew their contracts with us, or if our relationships with our largest customers are impaired or terminated, our revenue could decline, and our results of operations would be adversely impacted.",
+      "char_offset": 82267,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "Our top three customers together accounted for 16% and 17% of our revenue for the years ended December 31, 2025 and 2024, respectively.",
+      "char_offset": 82843,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "Although we currently are not considered to be a “controlled company” under The Nasdaq Stock Market LLC (“Nasdaq”) corporate governance rules, we may in the future become a controlled company due to the concentration of voting power among our Founders and their affiliates.",
+      "char_offset": 322746,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "Although we currently are not considered to be a “controlled company” under the Nasdaq corporate governance rules, we may in the future become a controlled company due to the concentration of voting power among our Founders and their affiliates resulting from the issuance of our Class F common stock.",
+      "char_offset": 323020,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "hat our Founders and their affiliates or other stockholders acquire more than 50% of the voting power of the Company, we may in the future be able to rely on the “controlled company” exemptions under the Nasdaq corporate governance rules due to this concentration of voting power and the ability of our Founders and their affiliates 54 Table of Contents to act as a group.",
+      "char_offset": 323668,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "This concentration of voting power is likely to have the effect of limiting the likelihood of an unsolicited merger proposal, unsolicited tender offer, or proxy contest for the removal of directors.",
+      "char_offset": 329009,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "We concluded that the promise to provide a software license is highly interdependent and interrelated with the promise to provide O&M services and such promises are not distinct within the context of our contracts and are accounted for as a single performance obligation for our On-Premises Software.",
+      "char_offset": 433089,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "Investments in entities where the Company holds at least a 20% ownership interest and has the ability to exercise significant influence over, but does not control, the investee are accounted for using the equity method of accounting.",
+      "char_offset": 457793,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "Renewals or early terminations are not accounted for unless the Company is reasonably certain to exercise these options.",
+      "char_offset": 469004,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "The Company has lease agreements with lease and non-lease components, which are accounted for as a single lease component.",
+      "char_offset": 469240,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "Financial instruments consist of money market funds and certificates of deposit included in cash equivalents and restricted cash, accounts receivable, marketable securities, other assets accounted for at fair value, accounts payable, and accrued liabilities.",
+      "char_offset": 471435,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "The Company concluded that the promise to provide a software license is highly interdependent and interrelated with the promise to provide O&M services and such promises are not distinct within the context of its contracts and are accounted for as a single performance obligation as the Company’s On-Premises Software.",
+      "char_offset": 478284,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "mentions_Microsoft",
+      "sentence": "AWS, Microsoft Azure, and other third parties have no obligation to renew their agreements with us on commercially reasonable terms, or at all.",
+      "char_offset": 203888,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "We have built four principal software platforms, Palantir Gotham (“Gotham”), Palantir Foundry (“Foundry”), Palantir Apollo (“Apollo”), and our Artificial Intelligence Platform (“AIP”).",
+      "char_offset": 35898,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Foundry is our foundational data operations platform, which provides the core capabilities for data management, logic authoring, systemic mapping development through Palantir Ontology (“Ontology”), analytics, and workflow development.",
+      "char_offset": 36083,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Foundry is becoming a central operating system not only for individual institutions but also for entire industries.",
+      "char_offset": 37198,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "” Our Platforms We have built four principal software platforms: Gotham, Foundry, Apollo, and AIP.",
+      "char_offset": 39530,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Despite their differences, Gotham and Foundry both serve as central operating systems for our customers.",
+      "char_offset": 40926,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "AIP provides an integrated architecture to Gotham and Foundry that can bring AI to every decision.",
+      "char_offset": 41098,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "5 Table of Contents Foundry Foundry transforms the ways organizations operate by creating a central operating system for their interconnected data, logic, and action.",
+      "char_offset": 42125,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "AIP is seamlessly bundled with existing Palantir offerings such as the Foundry, Gotham, and Apollo platforms.",
+      "char_offset": 43963,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Another way we expand access to our platforms is our Developer Tier offering, which provides limited access to Foundry and AIP in the United States and select countries.",
+      "char_offset": 48678,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "For example, we, through Palantir Technologies Japan KK, entered into a strategic global partnership with Fujitsu Limited through which the parties will incorporate the capabilities of Foundry and AIP as a key element in the data infrastructure for Fujitsu Uvance, a portfolio of global solutions that address business challenges and solve societal issues.",
+      "char_offset": 52298,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "These strategies include (i) creating new ecosystem partnerships to extend the platform beyond the customer’s four walls into the operations of its partners and suppliers, (ii) selling additional productized cross-industry software capabilities, and (iii) selling strategic implementations of our software against specific use cases, which deliver competitive differentiation.",
+      "char_offset": 52774,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "We also have registered trademarks for “Gotham,” “Palantir Foundry,” and our corporate logo, and are the registered holder of a variety of domestic and international domain names that include “Palantir,” including, most importantly, “Palantir.",
+      "char_offset": 66744,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "ttacks, viruses, malware, ransomware, hacking or similar breaches and incidents, including increasingly sophisticated threats, from nation-state actors or affiliated actors, including attacks that could materially disrupt our systems and operations, supply chain, and ability to produce, sell, and distribute our products and services.",
+      "char_offset": 188798,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "hanging market dynamics, global policy developments and increasing frequency and impact of extreme weather events on critical infrastructure in the United States and elsewhere have the potential to disrupt our business, the business of our partners, suppliers, and customers, and may cause us to experience higher attrition, losses and additional costs to maintain or resume operations.",
+      "char_offset": 362737,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Our information security team maintains policies and processes for assessing, identifying, and managing material risk from cybersecurity and other information security threats, including as may be related to our third party vendors and suppliers.",
+      "char_offset": 370005,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "We have built four principal software platforms, Gotham, Foundry, Apollo, and AIP.",
+      "char_offset": 383695,
+      "source_file": "0001321655-26-000011_pltr-20251231.htm.txt"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "ticker": "PLTR",
+  "source": "SEC EDGAR 8-K exhibit (official)",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000045/a2026q3ex991pressrelease.htm",
+  "form": "8-K",
+  "accession": "0001321655-26-000045",
+  "retrieved_at": "2026-11-18T01:22:03+08:00",
+  "chars": 23669,
+  "sha256": "3222acf6edaa98bdcf953d18742f404d6a9599f6c739f32d5378d934d083d00a"
+}

@@ -1,0 +1,80 @@
+{
+  "ticker": "NVDA",
+  "source": "Yahoo Finance news (via yfinance)",
+  "source_url": "https://finance.yahoo.com/quote/NVDA/news",
+  "retrieved_at": "2026-11-18T01:23:27+08:00",
+  "note": "新闻为辅助信息，引用需标注媒体与日期",
+  "n_items": 10,
+  "items": [
+    {
+      "title": "Former Nvidia CEO Jensen Huang says he'd be 'honored' to return to the company",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-17T16:31:07Z",
+      "link": "https://finance.yahoo.com/technology/article/former-nvidia-ceo-jensen-huang-says-hed-be-honored-to-return-to-the-company-163107005.html",
+      "summary": "Jensen Huang says he would be 'honored' to return as Nvidia CEO."
+    },
+    {
+      "title": "Colette Kress is exactly who Nvidia needs — not Jensen Huang: Kevin O'Leary explains",
+      "publisher": "Yahoo Finance Video",
+      "published": "2026-11-17T17:00:00Z",
+      "link": "https://finance.yahoo.com/video/colette-kress-exactly-nvidia-needs-170000607.html",
+      "summary": "O'Leary Ventures chairman Kevin O'Leary sits down with Yahoo Finance Executive Editor Brian Sozzi to explain why he does not think Jensen Huang should return as Nvidia's (NVDA) CEO, emphasizing that Colette Kress is exactly who the company needs right now."
+    },
+    {
+      "title": "Why today's a pivotal test for the AI trade",
+      "publisher": "Yahoo Finance Video",
+      "published": "2026-11-17T15:33:16Z",
+      "link": "https://finance.yahoo.com/video/why-todays-a-pivotal-test-for-the-ai-trade-153316364.html",
+      "summary": "Yahoo Finance Executive Editor and host of Sozzi Unleashed, Brian Sozzi, set investors up for a big day for the AI trade. Nvidia (NVDA) reports earnings after the close as former CEO Jensen Huang removes the Nvidia reference from his X account. Anthropic (ANTH.PVT) prepares for its IPO as questions remain, and Bank of America (BAC) releases its latest fund manager survey, stating \"the tech trade is still crowded\" as the sector reels from an AI pullback."
+    },
+    {
+      "title": "Nvidia's Colette Kress faces some serious pressure ahead of Q3 earnings",
+      "publisher": "Yahoo Finance Video",
+      "published": "2026-11-17T15:33:11Z",
+      "link": "https://finance.yahoo.com/video/nvidias-colette-kress-faces-some-serious-pressure-ahead-of-q3-earnings-153311066.html",
+      "summary": "Nvidia (NVDA) CFO Colette Kress will be captaining the ship as the interim CEO on the chipmaker's third quarter earnings call on Tuesday, following Jensen Huang's swift departure last week.\n\nYahoo Finance Executive Editor Brian Sozzi outlines the challenges that Kress will face at a post-Jensen Huang Nvidia."
+    },
+    {
+      "title": "Why analysts are calling Nvidia's stock valuation 'draconian'",
+      "publisher": "Yahoo Finance Video",
+      "published": "2026-11-17T15:22:29Z",
+      "link": "https://finance.yahoo.com/video/why-analysts-are-calling-nvidias-stock-valuation-draconian-152229262.html",
+      "summary": "Yahoo Finance Executive Editor Brian Sozzi takes a closer look at Nvidia's (NVDA) stock valuation and outlines why it's \"fallen off a cliff.\""
+    },
+    {
+      "title": "George Soros cut Nvidia holding by 20% before the scandal",
+      "publisher": "Yahoo Finance Video",
+      "published": "2026-11-17T15:13:24Z",
+      "link": "https://finance.yahoo.com/video/george-soros-cut-nvidia-holding-by-20-before-the-scandal-151324819.html",
+      "summary": "\"The 8:30\" hosts Julie Hyman, Pras Subramanian, and Jake Conley discuss George Soros's family office, Soros Fund Management, 13F disclosures. The fund cut its Nvidia (NVDA) holdings by 20% during the third quarter ended September 30, 2026."
+    },
+    {
+      "title": "Trump-Xi meeting looms as US tightens AI chip restrictions on China",
+      "publisher": "Yahoo Finance Video",
+      "published": "2026-11-17T15:09:37Z",
+      "link": "https://finance.yahoo.com/video/trump-xi-meeting-looms-as-us-tightens-ai-chip-restrictions-on-china-150937903.html",
+      "summary": "President Trump is set to meet with Chinese President Xi Jinping on Thursday as the US introduces new restrictions aimed at limiting China's access to advanced AI chips. The meeting comes amid ongoing trade and technology tensions between the world's two largest economies, with semiconductor exports and AI competition in focus."
+    },
+    {
+      "title": "Nvidia's \"Valuation Sanity Check\", tech software debacles, and Anthropic IPO preview",
+      "publisher": "Yahoo Finance Video",
+      "published": "2026-11-17T15:03:04Z",
+      "link": "https://finance.yahoo.com/video/nvidias-valuation-sanity-check-tech-software-debacles-and-anthropic-ipo-preview-150304034.html",
+      "summary": "Yahoo Finance Executive Editor Brian Sozzi breaks down some of the biggest movers in today's tech trade, including a look at Nvidia and its valuation, and why some analysts see that valuation as \"draconian\". Plus, a closer look at some of the recent tech debacles and outages and whether these trends will continue in the future.  \n\nSozzi also speaks to Kevin O'Leary about the state of the tech market, including the  Anthropic (ANTH.PVT) IPO and the rumors about Jensen Huang's return to Nvidia."
+    },
+    {
+      "title": "Stocks slip ahead of Nvidia earnings, Home Depot shares slide: AlphaCheck",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-17T14:57:55Z",
+      "link": "https://finance.yahoo.com/markets/article/copy-copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-145755423.html",
+      "summary": "Stocks slipped on Tuesday ahead of Nvidia's quarterly results."
+    },
+    {
+      "title": "Widespread outages hit consumers, Nvidia fallout continues, Pattinson named new James Bond",
+      "publisher": "Yahoo Finance Video",
+      "published": "2026-11-17T14:39:45Z",
+      "link": "https://finance.yahoo.com/video/widespread-outages-hit-consumers-nvidia-fallout-continues-pattinson-named-new-james-bond-143945867.html",
+      "summary": "The 8:30 hosts Julie Hyman, Jake Conley, and Pras Subramanian discuss all the top market headlines of the day, including customers at Chase (JPM) and Bank of America (BAC) being unable to access their accounts due to widespread outages, Nvidia (NVDA) forming an expert control board to oversee details of business with China, and actor Robert Pattinson being named the new James Bond in the upcoming Amazon (AMZN) MGM Studios film franchise.  "
+    }
+  ]
+}

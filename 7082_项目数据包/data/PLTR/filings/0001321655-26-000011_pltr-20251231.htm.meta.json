@@ -1,0 +1,10 @@
+{
+  "ticker": "PLTR",
+  "source": "SEC EDGAR filing (official)",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000011/pltr-20251231.htm",
+  "form": "10-K",
+  "accession": "0001321655-26-000011",
+  "retrieved_at": "2026-11-18T01:13:28+08:00",
+  "chars": 562706,
+  "sha256": "ef355524454cd46b762f72db007c9c948b0205656308764ada9ee331900f89c9"
+}

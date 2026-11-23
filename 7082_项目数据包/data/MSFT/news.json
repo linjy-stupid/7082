@@ -1,0 +1,80 @@
+{
+  "ticker": "MSFT",
+  "source": "Yahoo Finance news (via yfinance)",
+  "source_url": "https://finance.yahoo.com/quote/MSFT/news",
+  "retrieved_at": "2026-11-18T01:23:27+08:00",
+  "note": "新闻为辅助信息，引用需标注媒体与日期",
+  "n_items": 10,
+  "items": [
+    {
+      "title": "What far cheaper AI compute in space could mean for Elon Musk",
+      "publisher": "Yahoo Finance Video",
+      "published": "2026-11-17T16:27:07Z",
+      "link": "https://finance.yahoo.com/video/what-far-cheaper-ai-compute-in-space-could-mean-for-elon-musk-162707073.html",
+      "summary": "In the Loop host Ejaaz Ahamadeen explains how SpaceX (SPCX) CEO Elon Musk's ability to scale AI compute on Earth, and potentially in space at a much lower cost, could make his space business a highly lucrative AI compute provider on par with the big cloud businesses like Amazon Web Services (AMZN), Google Cloud (GOOG) (GOOGL), and Microsoft's (MSFT) Azure."
+    },
+    {
+      "title": "JPMorgan, Microsoft, United, FAA service outages: What exactly is going on?",
+      "publisher": "Yahoo Finance Video",
+      "published": "2026-11-17T14:07:32Z",
+      "link": "https://finance.yahoo.com/video/jpmorgan-microsoft-united-faa-service-outages-what-exactly-is-going-on-140732645.html",
+      "summary": "JPMorgan (JPM), Bank of America (BAC), Wells Fargo (WFC), United Airlines (UAL), Microsoft (MSFT), and the US Federal Aviation Administration (FAA) all experienced system outages recently.\n\n\"The 8:30\" hosts Julie Hyman, Pras Subramanian, and Jake Conley discuss the tech-related shortcomings that are contributing to these consumer-facing outages."
+    },
+    {
+      "title": "Update: Market Chatter: Amazon, Google, Meta Lobbying Fails to Stop Trump From Pursuing China Data Center Curbs",
+      "publisher": "MT Newswires",
+      "published": "2026-11-17T17:21:06Z",
+      "link": "https://finance.yahoo.com/technology/articles/market-chatter-amazon-google-meta-172106872.html",
+      "summary": "(Updates with Microsoft's response in the last paragraph.) Amazon.com (AMZN), Alphabet's (GOOG, G"
+    },
+    {
+      "title": "Microsoft Stock Has Grown Roughly 14-Fold Since Satya Nadella Became CEO in 2014, a 23% Annual Growth Rate. Can That Pace Continue Under Heavy AI Spending?",
+      "publisher": "Motley Fool",
+      "published": "2026-11-17T16:56:01Z",
+      "link": "https://www.fool.com/investing/2026/11/17/microsoft-stock-has-grown-roughly-14-fold-since-satya-nadella-became-ceo-in-2014-a-23-annual-growth-rate-that-ended-14-years-of-negative-growth-can-that-pace-continue-under-heavy-ai-spending/",
+      "summary": "Microsoft's financial results and its CFO's reassurances should give investors confidence that its AI spending will pay off."
+    },
+    {
+      "title": "Microsoft Leads 4 Stocks That Just Announced Bigger Dividend Payments",
+      "publisher": "24/7 Wall St.",
+      "published": "2026-11-17T16:47:32Z",
+      "link": "https://247wallst.com/investing/2026/11/17/microsoft-leads-4-stocks-that-just-announced-bigger-dividend-payments/",
+      "summary": "Four boards just put more cash behind their confidence, but a bigger payout is only as good as the earnings and cash flow beneath it. One utility is stretched thin, and one tech giant is spending heavily on AI. Which raises hold up?"
+    },
+    {
+      "title": "Workhorse (WKHS) Q3 2026 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "published": "2026-11-17T16:44:44Z",
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/11/17/workhorse-wkhs-q3-2026-earnings-call-transcript/",
+      "summary": "Canadian fleets lead EV adoption as TerraPod data center plans advance."
+    },
+    {
+      "title": "Sony defeats £2 billion UK claim over PlayStation Store pricing",
+      "publisher": "Reuters",
+      "published": "2026-11-17T16:36:47Z",
+      "link": "https://uk.news.yahoo.com/sony-defeats-2-billion-uk-125646144.html",
+      "summary": "(Corrects last paragraph to say Google trial started in October, not due to start) LONDON, Nov 17 () - Sony fought off a London lawsuit worth almost £2 billion ($2.6 billion) that alleged ‌the PlayStation maker's \"monopoly position\" inflated prices for digital games, after a tribunal dismissed the claim ‌in its entirety."
+    },
+    {
+      "title": "How Not Owning Microsoft Impacted the Fund’s Relative Returns?",
+      "publisher": "Insider Monkey",
+      "published": "2026-11-17T16:23:02Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/not-owning-microsoft-impacted-fund-162302067.html",
+      "summary": "Hotchkis & Wiley, an investment management company, released its third-quarter 2026 investor letter for the “Focused Global Value Fund.” The letter can be downloaded here. US quarterly earnings increased over 30% year-over-year, a strong performance amid a non-recessionary recovery, while international earnings grew in the low double digits. This growth occurred despite renewed conflict in […]"
+    },
+    {
+      "title": "Nvidia's Huang signals willingness to return as CEO; board creates national security panel",
+      "publisher": "Reuters",
+      "published": "2026-11-17T16:21:49Z",
+      "link": "https://ca.finance.yahoo.com/news/nvidia-board-forms-committee-national-102208048.html",
+      "summary": "By Jaspreet Singh Nov 17 (Reuters) - Nvidia's former CEO Jensen Huang, who resigned from the chipmaker last week under a cloud of scandal, said on Tuesday he \"would be honored\" to come back as CEO if"
+    },
+    {
+      "title": "Microsoft Corporation (MSFT) Rose on Strong Fiscal Year-End Results and Robust Outlook",
+      "publisher": "Insider Monkey",
+      "published": "2026-11-17T16:08:30Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-rose-strong-160830177.html",
+      "summary": "Jensen Investment Management, a US-based asset management company, released its third-quarter 2026 investor letter for “Jensen Quality Growth Equity Strategy”. The letter can be downloaded here. The Composite aims for long-term capital appreciation. In Q3 2026, the market shifted to a more measured environment after previous gains, with investor enthusiasm for AI winners diminishing alongside […]"
+    }
+  ]
+}

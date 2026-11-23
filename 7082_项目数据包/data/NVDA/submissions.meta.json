@@ -1,0 +1,8 @@
+{
+  "ticker": "NVDA",
+  "source": "SEC EDGAR submissions (official)",
+  "source_url": "https://data.sec.gov/submissions/CIK0001045810.json",
+  "retrieved_at": "2026-11-18T01:12:20+08:00",
+  "bytes": 159933,
+  "sha256": "84d40a550596382bc042628d4fa11620b6feec9f588003ac1b4ec2307b97e3fc"
+}

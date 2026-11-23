@@ -1,0 +1,10 @@
+{
+  "ticker": "NVDA",
+  "source": "SEC EDGAR filing (official)",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+  "form": "10-Q",
+  "accession": "0001045810-26-000075",
+  "retrieved_at": "2026-11-18T01:22:01+08:00",
+  "chars": 174563,
+  "sha256": "70e194db9334c93d7f27ed6c4ffb4a003b3043540ce371c934a0a3f2a2bde9e6"
+}

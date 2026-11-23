@@ -1,0 +1,305 @@
+{
+  "ticker": "MSFT",
+  "price_targets": {
+    "current": 508.19,
+    "high": 870.0,
+    "low": 440.0,
+    "mean": 636.12427,
+    "median": 631.0
+  },
+  "earnings_estimate": [
+    {
+      "period": "0q",
+      "avg": 4.85575,
+      "low": 4.82,
+      "high": 4.97073,
+      "yearAgoEps": 4.14,
+      "numberOfAnalysts": 24,
+      "growth": 0.1729,
+      "currency": "USD",
+      "methodology": "normalized"
+    },
+    {
+      "period": "+1q",
+      "avg": 4.93718,
+      "low": 4.82,
+      "high": 5.19,
+      "yearAgoEps": 4.27,
+      "numberOfAnalysts": 24,
+      "growth": 0.15619999,
+      "currency": "USD",
+      "methodology": "normalized"
+    },
+    {
+      "period": "0y",
+      "avg": 20.01388,
+      "low": 19.55,
+      "high": 20.63,
+      "yearAgoEps": 17.28,
+      "numberOfAnalysts": 32,
+      "growth": 0.1582,
+      "currency": "USD",
+      "methodology": "normalized"
+    },
+    {
+      "period": "+1y",
+      "avg": 24.1969,
+      "low": 22.9,
+      "high": 25.85,
+      "yearAgoEps": 20.01388,
+      "numberOfAnalysts": 33,
+      "growth": 0.20899999,
+      "currency": "USD",
+      "methodology": "normalized"
+    }
+  ],
+  "revenue_estimate": [
+    {
+      "period": "0q",
+      "avg": 96702363570,
+      "low": 95582000000,
+      "high": 97868000000,
+      "numberOfAnalysts": 37,
+      "yearAgoRevenue": 81273000000,
+      "growth": 0.1898,
+      "currency": "USD"
+    },
+    {
+      "period": "+1q",
+      "avg": 99261008270,
+      "low": 96312000000,
+      "high": 102264000000,
+      "numberOfAnalysts": 36,
+      "yearAgoRevenue": 82886000000,
+      "growth": 0.1976,
+      "currency": "USD"
+    },
+    {
+      "period": "0y",
+      "avg": 395965999880,
+      "low": 385062000000,
+      "high": 403797000000,
+      "numberOfAnalysts": 47,
+      "yearAgoRevenue": 331839000000,
+      "growth": 0.19319999,
+      "currency": "USD"
+    },
+    {
+      "period": "+1y",
+      "avg": 477146711660,
+      "low": 437636000000,
+      "high": 504609000000,
+      "numberOfAnalysts": 55,
+      "yearAgoRevenue": 395965999880,
+      "growth": 0.205,
+      "currency": "USD"
+    }
+  ],
+  "recommendations": [
+    {
+      "index": 0,
+      "period": "0m",
+      "strongBuy": 12,
+      "buy": 41,
+      "hold": 5,
+      "sell": 0,
+      "strongSell": 0
+    },
+    {
+      "index": 1,
+      "period": "-1m",
+      "strongBuy": 12,
+      "buy": 40,
+      "hold": 5,
+      "sell": 0,
+      "strongSell": 0
+    },
+    {
+      "index": 2,
+      "period": "-2m",
+      "strongBuy": 14,
+      "buy": 39,
+      "hold": 2,
+      "sell": 0,
+      "strongSell": 0
+    },
+    {
+      "index": 3,
+      "period": "-3m",
+      "strongBuy": 14,
+      "buy": 38,
+      "hold": 3,
+      "sell": 0,
+      "strongSell": 0
+    }
+  ],
+  "earnings_dates": [
+    {
+      "Earnings Date": "2027-01-27T16:00:00-05:00",
+      "EPS Estimate": 4.86,
+      "Reported EPS": null,
+      "Surprise(%)": null
+    },
+    {
+      "Earnings Date": "2026-10-28T16:00:00-04:00",
+      "EPS Estimate": 4.72,
+      "Reported EPS": 4.89,
+      "Surprise(%)": 3.59
+    },
+    {
+      "Earnings Date": "2026-07-29T16:00:00-04:00",
+      "EPS Estimate": 4.24,
+      "Reported EPS": 4.74,
+      "Surprise(%)": 11.81
+    },
+    {
+      "Earnings Date": "2026-04-29T16:00:00-04:00",
+      "EPS Estimate": 4.07,
+      "Reported EPS": 4.27,
+      "Surprise(%)": 4.85
+    },
+    {
+      "Earnings Date": "2026-01-28T16:00:00-05:00",
+      "EPS Estimate": 3.92,
+      "Reported EPS": 4.14,
+      "Surprise(%)": 5.69
+    },
+    {
+      "Earnings Date": "2025-10-29T16:00:00-04:00",
+      "EPS Estimate": 3.66,
+      "Reported EPS": 4.13,
+      "Surprise(%)": 12.73
+    },
+    {
+      "Earnings Date": "2025-07-30T16:00:00-04:00",
+      "EPS Estimate": 3.38,
+      "Reported EPS": 3.65,
+      "Surprise(%)": 8.09
+    },
+    {
+      "Earnings Date": "2025-04-30T16:00:00-04:00",
+      "EPS Estimate": 3.22,
+      "Reported EPS": 3.46,
+      "Surprise(%)": 7.4
+    },
+    {
+      "Earnings Date": "2025-01-29T16:00:00-05:00",
+      "EPS Estimate": 3.12,
+      "Reported EPS": 3.23,
+      "Surprise(%)": 3.47
+    },
+    {
+      "Earnings Date": "2024-10-30T16:00:00-04:00",
+      "EPS Estimate": 3.11,
+      "Reported EPS": 3.3,
+      "Surprise(%)": 6.13
+    },
+    {
+      "Earnings Date": "2024-07-30T16:00:00-04:00",
+      "EPS Estimate": 2.94,
+      "Reported EPS": 2.95,
+      "Surprise(%)": 0.23
+    },
+    {
+      "Earnings Date": "2024-04-25T16:00:00-04:00",
+      "EPS Estimate": 2.84,
+      "Reported EPS": 2.94,
+      "Surprise(%)": 3.4
+    },
+    {
+      "Earnings Date": "2024-01-30T16:00:00-05:00",
+      "EPS Estimate": 2.77,
+      "Reported EPS": 2.93,
+      "Surprise(%)": 5.83
+    },
+    {
+      "Earnings Date": "2023-10-24T16:00:00-04:00",
+      "EPS Estimate": 2.65,
+      "Reported EPS": 2.99,
+      "Surprise(%)": 12.85
+    },
+    {
+      "Earnings Date": "2023-07-25T16:00:00-04:00",
+      "EPS Estimate": 2.55,
+      "Reported EPS": 2.69,
+      "Surprise(%)": 5.59
+    },
+    {
+      "Earnings Date": "2023-04-25T16:00:00-04:00",
+      "EPS Estimate": 2.23,
+      "Reported EPS": 2.45,
+      "Surprise(%)": 9.77
+    },
+    {
+      "Earnings Date": "2023-01-24T16:00:00-05:00",
+      "EPS Estimate": 2.32,
+      "Reported EPS": 2.32,
+      "Surprise(%)": 0.21
+    },
+    {
+      "Earnings Date": "2022-10-25T16:00:00-04:00",
+      "EPS Estimate": 2.31,
+      "Reported EPS": 2.35,
+      "Surprise(%)": 1.92
+    },
+    {
+      "Earnings Date": "2022-07-26T16:00:00-04:00",
+      "EPS Estimate": 2.29,
+      "Reported EPS": 2.23,
+      "Surprise(%)": -2.69
+    },
+    {
+      "Earnings Date": "2022-04-26T16:00:00-04:00",
+      "EPS Estimate": 2.2,
+      "Reported EPS": 2.22,
+      "Surprise(%)": 1.06
+    },
+    {
+      "Earnings Date": "2022-01-25T16:00:00-05:00",
+      "EPS Estimate": 2.32,
+      "Reported EPS": 2.48,
+      "Surprise(%)": 6.97
+    },
+    {
+      "Earnings Date": "2021-10-26T16:00:00-04:00",
+      "EPS Estimate": 2.08,
+      "Reported EPS": 2.27,
+      "Surprise(%)": 9.3
+    },
+    {
+      "Earnings Date": "2021-07-27T16:00:00-04:00",
+      "EPS Estimate": 1.93,
+      "Reported EPS": 2.17,
+      "Surprise(%)": 12.71
+    },
+    {
+      "Earnings Date": "2021-04-27T16:00:00-04:00",
+      "EPS Estimate": 1.78,
+      "Reported EPS": 1.95,
+      "Surprise(%)": 9.67
+    },
+    {
+      "Earnings Date": "2021-01-26T16:00:00-05:00",
+      "EPS Estimate": 1.64,
+      "Reported EPS": 2.03,
+      "Surprise(%)": 23.99
+    }
+  ],
+  "calendar": {
+    "Dividend Date": "2026-12-10",
+    "Ex-Dividend Date": "2026-11-19",
+    "Earnings Date": [
+      "2027-01-28"
+    ],
+    "Earnings High": 4.97073,
+    "Earnings Low": 4.82,
+    "Earnings Average": 4.85575,
+    "Revenue High": 97868000000,
+    "Revenue Low": 95582000000,
+    "Revenue Average": 96702363570
+  },
+  "source": "Yahoo Finance (via yfinance)",
+  "source_url": "https://finance.yahoo.com/quote/MSFT/analysis",
+  "retrieved_at": "2026-11-18T23:12:16+08:00",
+  "usage_note": "第三方共识/预期数据，不是公司披露；报告中须标注来源与日期，不可当作事实。"
+}

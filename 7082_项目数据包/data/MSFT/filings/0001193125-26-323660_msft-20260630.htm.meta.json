@@ -1,0 +1,10 @@
+{
+  "ticker": "MSFT",
+  "source": "SEC EDGAR filing (official)",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+  "form": "10-K",
+  "accession": "0001193125-26-323660",
+  "retrieved_at": "2026-11-18T01:13:28+08:00",
+  "chars": 357714,
+  "sha256": "4933d30cedc9cbbf25cb46600c40b5a9b0026b39b1cb586ee302f5617ba8d6e4"
+}

@@ -1,0 +1,10 @@
+{
+  "ticker": "NVDA",
+  "source": "SEC EDGAR 8-K exhibit (official)",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27cfocommentary.htm",
+  "form": "8-K",
+  "accession": "0001045810-26-000073",
+  "retrieved_at": "2026-11-18T01:26:55+08:00",
+  "chars": 19722,
+  "sha256": "965bf754941444bcf7468f9c0569a88b6231b33fcfa56e9582d23c7c7c1e49b9"
+}

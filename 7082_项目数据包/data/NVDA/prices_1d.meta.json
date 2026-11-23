@@ -1,0 +1,13 @@
+{
+  "ticker": "NVDA",
+  "source": "Yahoo Finance (via yfinance)",
+  "source_url": "https://finance.yahoo.com/quote/NVDA/history",
+  "retrieved_at": "2026-11-18T01:12:21+08:00",
+  "interval": "1d",
+  "requested_period": "3y",
+  "rows": 752,
+  "first_date": "2023-11-17 00:00:00-05:00",
+  "last_date": "2026-11-17 00:00:00-05:00",
+  "sha256": "5ede728f177c9c393e72a61559fe093a93a7f369a76ea50bd5bb9a6e72038efc",
+  "note": "市场数据，非 SEC 官方；auto_adjust=False，保留原始 OHLC"
+}

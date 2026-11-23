@@ -1,0 +1,11 @@
+{
+  "ticker": "MSFT",
+  "period": "Q1 2027",
+  "call_date": "2026-10-28",
+  "source": "StockAnalysis (transcripts provided by Quartr)",
+  "source_url": "https://stockanalysis.com/stocks/msft/transcripts/718712-q1-2027/",
+  "retrieved_at": "2026-11-18T23:16:34+08:00",
+  "n_sections": 45,
+  "n_chars": 53933,
+  "sha256": "6b53973a0727b74d028dfa2691f41e9c47d05c3c089c59c0b703a7560bf2094b"
+}

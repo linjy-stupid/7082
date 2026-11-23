@@ -1,0 +1,11 @@
+{
+  "ticker": "PLTR",
+  "period": "Q3 2026",
+  "call_date": "2026-11-02",
+  "source": "StockAnalysis (transcripts provided by Quartr)",
+  "source_url": "https://stockanalysis.com/stocks/pltr/transcripts/722806-q3-2026/",
+  "retrieved_at": "2026-11-18T23:16:39+08:00",
+  "n_sections": 25,
+  "n_chars": 45833,
+  "sha256": "f00ff1e96321648d3d91176b6e7268b4a839c674f74bbafae8aa093d9ee732b3"
+}

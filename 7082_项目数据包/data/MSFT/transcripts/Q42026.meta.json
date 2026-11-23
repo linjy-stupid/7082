@@ -1,0 +1,11 @@
+{
+  "ticker": "MSFT",
+  "period": "Q4 2026",
+  "call_date": "2026-07-29",
+  "source": "StockAnalysis (transcripts provided by Quartr)",
+  "source_url": "https://stockanalysis.com/stocks/msft/transcripts/647770-q4-2026/",
+  "retrieved_at": "2026-11-18T23:16:36+08:00",
+  "n_sections": 41,
+  "n_chars": 61570,
+  "sha256": "7dc37e0afa512462f4c1cd5f971d6789e096de7b42b2a20b49843163e198e104"
+}

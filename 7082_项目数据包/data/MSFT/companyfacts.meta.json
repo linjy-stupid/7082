@@ -1,0 +1,8 @@
+{
+  "ticker": "MSFT",
+  "source": "SEC EDGAR XBRL companyfacts (official)",
+  "source_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000789019.json",
+  "retrieved_at": "2026-11-18T01:12:49+08:00",
+  "bytes": 4938072,
+  "sha256": "8c1903c041f5c27e86ed15f37debb1f41882b7904bba129ef9edc76478b1e8ea"
+}

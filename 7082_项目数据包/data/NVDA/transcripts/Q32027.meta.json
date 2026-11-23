@@ -1,0 +1,11 @@
+{
+  "ticker": "NVDA",
+  "period": "Q3 2027",
+  "call_date": "2026-11-17",
+  "source": "StockAnalysis (transcripts provided by Quartr)",
+  "source_url": "https://stockanalysis.com/stocks/nvda/transcripts/739383-q3-2027/",
+  "retrieved_at": "2026-11-18T23:16:30+08:00",
+  "n_sections": 33,
+  "n_chars": 43362,
+  "sha256": "572cba212e37a09992f2d49dad61fb7a328c7403d313962f016be29e6bf4c0df"
+}

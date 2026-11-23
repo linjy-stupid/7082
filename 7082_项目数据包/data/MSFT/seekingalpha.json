@@ -1,0 +1,390 @@
+{
+  "ticker": "MSFT",
+  "source": "Seeking Alpha public RSS feed",
+  "source_url": "https://seekingalpha.com/symbol/MSFT/feed.xml",
+  "retrieved_at": "2026-11-18T23:11:59+08:00",
+  "usage_note": "RSS 版权声明限定 personal, non-commercial use；本文件只保存标题/作者/日期/链接元数据，不转载正文。正文需订阅，未获取。",
+  "n_items": 20,
+  "items": [
+    {
+      "title": "ROCY Vs. XYLD: JPMorgan Fixed The Covered Call Problem",
+      "link": "https://seekingalpha.com/article/4969609-rocy-vs-xyld-jpmorgan-fixed-the-covered-call-problem?source=feed_symbol_MSFT",
+      "published": "2026-11-18T10:06:36-05:00",
+      "guid": "4969609",
+      "authors": [
+        "Cain Lee",
+        "ETF Portfolio Mechanics"
+      ],
+      "symbols": [
+        "SPYI",
+        "SPX",
+        "JEPI",
+        "GPIX",
+        "NVDA",
+        "MSFT",
+        "AAPL",
+        "AVGO",
+        "DIVO",
+        "ROCY",
+        "XYLD"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Alger Capital Appreciation Fund Q3 2026 Portfolio Activity",
+      "link": "https://seekingalpha.com/article/4969605-alger-capital-appreciation-fund-q3-2026-portfolio-activity?source=feed_symbol_MSFT",
+      "published": "2026-11-18T10:04:00-05:00",
+      "guid": "4969605",
+      "authors": [
+        "Fred Alger Management",
+        "Fund Letter Stock Ideas"
+      ],
+      "symbols": [
+        "ACAAX",
+        "MSFT",
+        "NVDA",
+        "NTRA",
+        "WDC",
+        "NBIS",
+        "ALAB",
+        "ACAZX",
+        "ALCCX"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Microsoft Ignite highlights innovations across AI stack, from chips to applications",
+      "link": "https://seekingalpha.com/news/4674138-microsoft-ignite-highlights-innovations-across-ai-stack-from-chips-to-applications?source=feed_symbol_MSFT",
+      "published": "2026-11-18T09:21:43-05:00",
+      "guid": "4674138",
+      "authors": [],
+      "symbols": [
+        "MSFT",
+        "ANT"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Microsoft sees growing demand for Nvidia alternatives after Huang exit",
+      "link": "https://seekingalpha.com/news/4674171-microsoft-sees-growing-demand-for-nvidia-alternatives-after-huang-exit?source=feed_symbol_MSFT",
+      "published": "2026-11-18T09:16:06-05:00",
+      "guid": "4674171",
+      "authors": [],
+      "symbols": [
+        "MSFT",
+        "NVDA",
+        "AMD",
+        "AVGO"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Microsoft in talks with ByteDance for additional $500M in cloud usage: report",
+      "link": "https://seekingalpha.com/news/4674179-microsoft-in-talks-with-bytedance-for-additional-500m-in-cloud-usage-report?source=feed_symbol_MSFT",
+      "published": "2026-11-18T09:12:43-05:00",
+      "guid": "4674179",
+      "authors": [],
+      "symbols": [
+        "MSFT",
+        "BDNCE",
+        "OPENAI"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Microsoft Scales Agentic AI To The Enterprise",
+      "link": "https://seekingalpha.com/article/4969588-microsoft-scales-agentic-ai-to-enterprise?source=feed_symbol_MSFT",
+      "published": "2026-11-18T08:45:00-05:00",
+      "guid": "4969588",
+      "authors": [
+        "Bob O'Donnell"
+      ],
+      "symbols": [
+        "MSFT",
+        "MSFT:CA"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "McGraw Hill sets multi-year growth targets, banks on AI monetization",
+      "link": "https://seekingalpha.com/news/4674102-mcgraw-hill-sets-multi-year-growth-targets-banks-on-ai-monetization?source=feed_symbol_MSFT",
+      "published": "2026-11-18T08:17:10-05:00",
+      "guid": "4674102",
+      "authors": [],
+      "symbols": [
+        "MH",
+        "MSFT",
+        "ANT"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Lumentum, Coherent may benefit from US banning Chinese optical transceivers: Wedbush",
+      "link": "https://seekingalpha.com/news/4674100-lumentum-coherent-may-benefit-from-us-banning-chinese-optical-transceivers-wedbush?source=feed_symbol_MSFT",
+      "published": "2026-11-18T07:36:32-05:00",
+      "guid": "4674100",
+      "authors": [],
+      "symbols": [
+        "COHR",
+        "LITE",
+        "GOOG",
+        "AMZN",
+        "MSFT",
+        "AXTI",
+        "TSEM",
+        "GOOGL"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "GTA 6 day: Take-Two Interactive rallies as preorders soar and reviews rave",
+      "link": "https://seekingalpha.com/news/4674067-gta-6-day-take-two-interactive-rallies-as-preorders-soar-and-reviews-rave?source=feed_symbol_MSFT",
+      "published": "2026-11-18T06:54:43-05:00",
+      "guid": "4674067",
+      "authors": [],
+      "symbols": [
+        "TTWO",
+        "MSFT",
+        "BBY",
+        "SONY",
+        "AMD",
+        "LOGI",
+        "GME",
+        "CRSR",
+        "ESPO",
+        "NERD",
+        "HERO"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "SMH: Another Buy The Dip Moment",
+      "link": "https://seekingalpha.com/article/4969507-smh-another-buy-the-dip-moment?source=feed_symbol_MSFT",
+      "published": "2026-11-18T06:29:28-05:00",
+      "guid": "4969507",
+      "authors": [
+        "Brett Ashcroft Green"
+      ],
+      "symbols": [
+        "SOXX",
+        "NVDA",
+        "ASML",
+        "KLAC",
+        "GOOGL",
+        "AMZN",
+        "MSFT",
+        "ORCL",
+        "SMH"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Alphabet: Why I Caught The Falling Knife",
+      "link": "https://seekingalpha.com/article/4969458-alphabet-why-i-caught-the-falling-knife?source=feed_symbol_MSFT",
+      "published": "2026-11-18T04:07:26-05:00",
+      "guid": "4969458",
+      "authors": [
+        "Daniel James"
+      ],
+      "symbols": [
+        "AMZN",
+        "META",
+        "MSFT",
+        "GOOG",
+        "AMZN:CA",
+        "ZAMZ:CA",
+        "META:CA",
+        "ZMET:CA",
+        "MSFT:CA",
+        "ZMSF:CA",
+        "GOOG:CA",
+        "GOOGL",
+        "ZGOO:CA"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Bank executives, NSA flag AI-related vulnerabilities as Trump shrugs off tech outages",
+      "link": "https://seekingalpha.com/news/4674002-bank-executives-nsa-flag-ai-related-vulnerabilities-as-trump-shrugs-off-tech-outages?source=feed_symbol_MSFT",
+      "published": "2026-11-18T01:49:06-05:00",
+      "guid": "4674002",
+      "authors": [],
+      "symbols": [
+        "AAPL",
+        "MSFT",
+        "JPM",
+        "UAL",
+        "SPY"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Microsoft: The Market Is Rewarding Financial Discipline, Not AI Monetization",
+      "link": "https://seekingalpha.com/article/4969410-microsoft-the-market-is-rewarding-financial-discipline-not-ai-monetization?source=feed_symbol_MSFT",
+      "published": "2026-11-18T01:34:47-05:00",
+      "guid": "4969410",
+      "authors": [
+        "Carla Magliocco"
+      ],
+      "symbols": [
+        "MSFT",
+        "MSFT:CA",
+        "ZMSF:CA"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Microsoft Foundry adds Baseten, DeepSeek AI inference",
+      "link": "https://seekingalpha.com/news/4673999-microsoft-foundry-adds-baseten-deepseek-ai-inference?source=feed_symbol_MSFT",
+      "published": "2026-11-18T00:39:09-05:00",
+      "guid": "4673999",
+      "authors": [],
+      "symbols": [
+        "MSFT",
+        "DEEPSEEK"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Nvidia: Why Jensen Huang's Departure Can Be Good For AI",
+      "link": "https://seekingalpha.com/article/4969292-nvidia-why-jensen-huangs-departure-can-be-good-for-ai?source=feed_symbol_MSFT",
+      "published": "2026-11-17T18:15:37-05:00",
+      "guid": "4969292",
+      "authors": [
+        "Bashar Issa"
+      ],
+      "symbols": [
+        "MSFT",
+        "AMZN",
+        "AMZN:CA",
+        "MSFT:CA",
+        "ZAMZ:CA",
+        "ZMSF:CA",
+        "ORCL",
+        "ORAC:CA",
+        "OPENAI",
+        "CRWV",
+        "CRWV:CA",
+        "NVDA",
+        "NVDA:CA",
+        "ZNVD:CA"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Microsoft: Anthropic Is Moving Into Its Most Profitable Territory",
+      "link": "https://seekingalpha.com/article/4969275-microsoft-anthropic-is-moving-into-its-most-profitable-territory?source=feed_symbol_MSFT",
+      "published": "2026-11-17T17:27:27-05:00",
+      "guid": "4969275",
+      "authors": [
+        "Bears of Wall Street"
+      ],
+      "symbols": [
+        "MSFT"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Salesforce leads enterprise software stocks lower ahead of Anthropic's IPO",
+      "link": "https://seekingalpha.com/news/4673872-salesforce-leads-enterprise-software-stocks-lower-ahead-of-anthropics-ipo?source=feed_symbol_MSFT",
+      "published": "2026-11-17T16:12:05-05:00",
+      "guid": "4673872",
+      "authors": [],
+      "symbols": [
+        "IGV",
+        "CRM",
+        "ADBE",
+        "NOW",
+        "PANW",
+        "WDAY",
+        "HACK",
+        "TEAM",
+        "ANT",
+        "MSFT",
+        "NVDA",
+        "CRWD",
+        "APPN",
+        "OKTA",
+        "ZS",
+        "S"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Quant ratings on Third Point's top holdings: META, NVDA, UNM lead",
+      "link": "https://seekingalpha.com/news/4673873-quant-ratings-on-third-points-top-holdings-meta-nvda-unm-lead?source=feed_symbol_MSFT",
+      "published": "2026-11-17T16:01:50-05:00",
+      "guid": "4673873",
+      "authors": [],
+      "symbols": [
+        "MSFT",
+        "NVDA",
+        "FLEX",
+        "TSM",
+        "TDS",
+        "UNM",
+        "CRH",
+        "META",
+        "KEYS",
+        "XYZ",
+        "SPCX",
+        "APG",
+        "NVDA:CA",
+        "META:CA",
+        "COF",
+        "LYV",
+        "FWONK"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "NSA says network disruption affected internal systems, critical operations intact",
+      "link": "https://seekingalpha.com/news/4673863-nsa-says-network-disruption-affected-internal-systems-critical-operations-intact?source=feed_symbol_MSFT",
+      "published": "2026-11-17T14:50:04-05:00",
+      "guid": "4673863",
+      "authors": [],
+      "symbols": [
+        "PPA",
+        "ITA",
+        "XAR",
+        "MSFT",
+        "BAH"
+      ],
+      "is_primary": true
+    },
+    {
+      "title": "Quant ratings on Bridgewater Associates' top holdings: SPY, IVV, NVDA, AVGO",
+      "link": "https://seekingalpha.com/news/4673835-quant-ratings-on-bridgewater-associates-top-holdings-spy-ivv-nvda-avgo?source=feed_symbol_MSFT",
+      "published": "2026-11-17T14:08:08-05:00",
+      "guid": "4673835",
+      "authors": [],
+      "symbols": [
+        "SPY",
+        "IVV",
+        "MSFT",
+        "NVDA",
+        "AVGO",
+        "GOOGL",
+        "NFLX",
+        "D",
+        "EWY",
+        "AMZN",
+        "NEM",
+        "OXY",
+        "AMD",
+        "STX",
+        "INCY",
+        "AMAT",
+        "LRCX",
+        "MU",
+        "UNP",
+        "SHEL",
+        "EFX",
+        "VTWO",
+        "DNLI",
+        "APP"
+      ],
+      "is_primary": true
+    }
+  ]
+}

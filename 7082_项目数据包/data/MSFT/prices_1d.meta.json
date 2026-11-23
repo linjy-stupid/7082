@@ -1,0 +1,13 @@
+{
+  "ticker": "MSFT",
+  "source": "Yahoo Finance (via yfinance)",
+  "source_url": "https://finance.yahoo.com/quote/MSFT/history",
+  "retrieved_at": "2026-11-18T01:12:49+08:00",
+  "interval": "1d",
+  "requested_period": "3y",
+  "rows": 752,
+  "first_date": "2023-11-17 00:00:00-05:00",
+  "last_date": "2026-11-17 00:00:00-05:00",
+  "sha256": "65cc51601b740389fd2edaad34354b3972ec8f64c524f8b247e8bb97e1269670",
+  "note": "市场数据，非 SEC 官方；auto_adjust=False，保留原始 OHLC"
+}

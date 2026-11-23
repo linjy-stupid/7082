@@ -1,0 +1,101 @@
+Course Administration
+
+Time and Location: Classes are held every Monday from 7:00 PM to 10:00
+PM in CPD-LG.10 (excluding Reading Week and public holidays).
+
+Lecture Notes: Lecture materials will be made available prior to each
+class. Please review them in advance.
+
+Teaching Team:
+Instructor: Dr. Z.C. Lin (zclin@eee.hku.hk)
+Teaching Assistant: Chaoyi XING (u3013979@connect.hku.hk)
+
+Group Project Administration
+
+Group Formation: Please form a group of 2 to 3 students (maximum of 3
+per group) by October 5, 2026 (Lecture 5). You must register your team's
+details—including your team name, member names, UIDs, and HKU email
+addresses—via the following link:
+👉 2026-27 Group Project Team Info Registration
+
+(Note: Students who have not registered with a group by the deadline
+will be randomly assigned to one.)
+
+Project Objective, Deliverables & Deadlines: For comprehensive details
+regarding the project requirements, deliverables, and submission
+guidelines, please refer to the Lecture 1 notes.
+
+The grading of the Mid-term Exam has been released on Moodle.
+
+Students can now access the following materials on Moodle:
+
+-   Mid-term Exam grade
+
+-   Marked exam script
+
+-   Original exam paper
+
+-   Exam solution
+
+Please note that there are two versions of the exam paper.
+
+The two versions contain the same questions, but:
+
+-   The order of questions may be different.
+
+-   The order of answer options may be different.
+
+Students should check the bottom-right corner of their marked script to
+identify which version of the exam paper they received.
+
+When reviewing the exam paper and solution, students should refer to the
+corresponding version of the exam paper.
+
+The company list for the course project has been released.
+
+Each group should select companies from the list below for the course
+project.
+
+The available companies are:
+
+US:
+
+-   AAPL — Apple Inc.
+
+-   NVDA — NVIDIA Corp.
+
+-   MSFT — Microsoft
+
+-   PLTR — Palantir Technologies
+
+-   CSCO — Cisco Systems
+
+CN
+
+-   688256.SH — Cambricon / 寒武纪
+
+-   601138.SH — Foxconn Industrial Internet / 工业富联
+
+-   002230.SZ — iFLYTEK / 科大讯飞
+
+-   002415.SZ — Hikvision / 海康威视
+
+JP
+
+-   9984.T — SoftBank Group
+
+-   7203.T — Toyota
+
+KR
+
+-   005930.KS — Samsung Electronics
+
+-   000660.KS — SK Hynix
+
+TW
+
+-   2330.TW — TSMC
+
+-   2317.TW — Foxconn Technology / Hon Hai
+
+-   

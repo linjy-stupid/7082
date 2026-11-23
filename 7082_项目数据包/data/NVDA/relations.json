@@ -1,0 +1,434 @@
+{
+  "ticker": "NVDA",
+  "source_file": "0001045810-26-000021_nvda-20260125.htm.txt",
+  "source_path": "F:\\claude\\7082\\project\\data\\NVDA\\filings\\0001045810-26-000021_nvda-20260125.htm.txt",
+  "n_matches": 71,
+  "matches": [
+    {
+      "type": "customer_concentration",
+      "sentence": "• A significant amount of our revenue stems from a limited number of partners and distributors and we have a concentration of sales to customers who purchase directly or indirectly from us, and our revenue could be adversely affected if we lose or are prevented from selling to any of these customers.",
+      "char_offset": 80861,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "We receive a significant amount of our revenue from a limited number of partners and distributors and we have a concentration of sales to customers who purchase directly or indirectly from us, and our revenue could be adversely affected if we lose or are prevented from selling to any of these customers.",
+      "char_offset": 135447,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "40 Table of Contents Concentration of Revenue We refer to customers who purchase products directly from NVIDIA as direct customers, such as AIBs, distributors, ODMs, OEMs, CSPs, AI model makers, and system integrators.",
+      "char_offset": 223510,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "Revenue from sales to customers headquartered outside of the United States accounted for 31% and 41% of total revenue for fiscal years 2026 and 2025, respectively.",
+      "char_offset": 225732,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "56 Table of Contents NVIDIA Corporation and Subsidiaries Notes to the Consolidated Financial Statements (Continued) Contracts with Multiple Performance Obligations Our contracts may contain more than one deliverable, each of which is separately accounted for as a distinct performance obligation.",
+      "char_offset": 274289,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "We account for multiple agreements with a single customer as a single contract if the contractual terms and/or substance of those agreements indicate that they may be so closely related that they are, in effect, parts of a single contract.",
+      "char_offset": 274586,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "Concentration of Credit Risk Financial instruments that potentially subject us to concentrations of credit risk consist primarily of cash equivalents, marketable securities, lease guarantees, and accounts receivable.",
+      "char_offset": 285328,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "ombination The Company applies a screen test to evaluate if substantially all of the fair value of the gross assets acquired is concentrated in a single identifiable asset or group of similar identifiable assets to determine whether a transaction is accounted for as an asset acquisition or business combination.",
+      "char_offset": 291648,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "We assess whether an impairment loss has occurred on our investments in non-marketable equity securities, accounted for under the measurement alternative based on quantitative and qualitative factors.",
+      "char_offset": 294104,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "Three direct customers accounted for 25 %, 18 %, and 13 % of our accounts receivable balance as of January 25, 2026.",
+      "char_offset": 311099,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "Two direct customers accounted for 17 % and 16 % of our accounts receivable balance as of January 26, 2025.",
+      "char_offset": 311216,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "customer_concentration",
+      "sentence": "Revenue from sales to customers headquartered outside of the United States accounted for 31 %, 41 %, and 48 % of total revenue for fiscal years 2026, 2025, and 2024, respectively.",
+      "char_offset": 345592,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "mentions_Microsoft",
+      "sentence": "ft Corporation, or Microsoft; • suppliers of Arm-based CPUs and companies that incorporate hardware and software for CPUs as part of their internal solutions or platforms, such as Amazon, Huawei, and Microsoft; • suppliers of hardware and software for SoC products that are used in servers or embedded into automobiles, autonomous machines, and gaming devices, such as Ambarella, Inc.",
+      "char_offset": 60560,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "mentions_Microsoft",
+      "sentence": "Kress held a variety of positions at Microsoft, a software company, including, beginning in 2006, Chief Financial Officer of the Server and Tools division, where Ms.",
+      "char_offset": 75182,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "mentions_Microsoft",
+      "sentence": "• Delaware law, provisions in our governing documents and our agreement with Microsoft could delay or prevent a change in control.",
+      "char_offset": 82982,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "mentions_Microsoft",
+      "sentence": "31 Table of Contents Delaware law and our certificate of incorporation, bylaws and agreement with Microsoft could delay or prevent a change in control.",
+      "char_offset": 192330,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "mentions_Microsoft",
+      "sentence": "Under our agreement with Microsoft for the Xbox, if someone makes an offer to purchase at least 30% of our outstanding common stock, Microsoft may have first and last rights of refusal to purchase the stock.",
+      "char_offset": 193219,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "on automotive safety standards, for the AV and EV market under the DRIVE brand, which we are bringing to market through our partnerships across the transportation industry including with automotive OEMs, mobility service providers, robotaxis, tier-1 suppliers, and start-ups.",
+      "char_offset": 52349,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Our partner network incorporates global, regional and specialized CSPs, OEMs, ODMs, ISVs, global system integrators, add-in board manufacturers, or AIBs, distributors, automotive manufacturers and tier-1 automotive suppliers, and other ecosystem participants.",
+      "char_offset": 53780,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Manufacturing We utilize a fabless and contracting manufacturing strategy, whereby we employ and partner with key suppliers for all phases of the manufacturing process, including wafer fabrication, assembly, testing, and packaging.",
+      "char_offset": 56224,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "We use the expertise of industry-leading suppliers that are certified by the International Organization for Standardization in such areas as fabrication, assembly, quality control and assurance, reliability, and testing.",
+      "char_offset": 56456,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "While we may directly procure certain raw materials used in the production of our products, such as memory, substrates, and a variety of components, our suppliers are responsible for procurement of most raw materials used in the production of our products.",
+      "char_offset": 56807,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "We have expanded our supplier relationships to build redundancy and resilience in our operations to provide long-term manufacturing capacity aligned with growing customer demand.",
+      "char_offset": 57421,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "While currently our supply chain is mainly concentrated in Asia, we are expanding into the U.",
+      "char_offset": 57600,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co.",
+      "char_offset": 58024,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Our current competitors include: • suppliers and licensors of hardware and software for discrete and integrated GPUs, custom chips and other accelerated computing solutions, including solutions offered for AI, such as Advanced Micro Devices, Inc.",
+      "char_offset": 59940,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": ", Huawei, and Microsoft Corporation, or Microsoft; • suppliers of Arm-based CPUs and companies that incorporate hardware and software for CPUs as part of their internal solutions or platforms, such as Amazon, Huawei, and Microsoft; • suppliers of hardware and software for SoC products that are used in servers or embedded into automobiles, autonomous machines, and gaming devices, such as Ambarella, Inc.",
+      "char_offset": 60539,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "he licensing process will make our pre-sale and post-sale technical support efforts more cumbersome and less certain and encourage customers in China, the Middle East, and other regions to pursue alternatives to our products, including semiconductor suppliers based in China, Europe, and Israel.",
+      "char_offset": 70032,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "While we work to enhance the resiliency and redundancy of our supply chain, which is currently concentrated in Asia, new and existing export controls or changes to existing export controls could limit alternative manufacturing locations and negatively impact our business.",
+      "char_offset": 70927,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "12 Table of Contents • Dependency on third-party suppliers and their technology to manufacture, assemble, test, or package our products reduces our control over product quantity and quality, manufacturing yields, and product delivery schedules and could harm our business.",
+      "char_offset": 79748,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "rket share and/or prevent us from doing so, more effectively identify and capitalize upon opportunities in new markets and end-user trends, more quickly transition their products, and impinge on our ability to procure sufficient 14 Table of Contents foundry capacity and scarce input materials during a supply-constrained environment, which could harm our business.",
+      "char_offset": 88115,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "In periods of shortages impacting the semiconductor industry and/or limited supply or capacity in our supply chain, the lead times for certain supply may be extended.",
+      "char_offset": 89442,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "If we underestimate demand, and our foundry partners and contract manufacturers are unable to increase production or provide sufficient supply, we may not be able to meet increased customer demand in a timely manner, or at all.",
+      "char_offset": 90431,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "We have had to reduce average selling prices, including due to our channel pricing programs, increase prices for certain of our products as a result of our suppliers’ increase in prices, write down our inventory, incur cancellation penalties, and record impairments, and may have to do so in the future.",
+      "char_offset": 91341,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Geopolitical tensions in regions where we rely on suppliers, contract manufacturers, and assembly partners that are critical to our supply continuity, could have a material adverse impact on us.",
+      "char_offset": 94779,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "We continue to increase our supply and capacity purchases with existing and new suppliers to support our demand projections and increasing complexity of our data center products.",
+      "char_offset": 95193,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "The increased purchase volumes and integration of new suppliers and contract manufacturers into our supply chain creates more complexity in managing multiple suppliers with variations in production planning, execution and logistics.",
+      "char_offset": 95623,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "We incur significant engineering development resources for new products, and changes to our product roadmap may impact our ability to develop other products or adequately manage our supply chain cost.",
+      "char_offset": 98733,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Customers may delay purchasing existing products as we increase the frequency of new products or may not be able to adopt our new 16 Table of Contents products as fast as forecasted, both impacting the timing of our revenue and supply chain cost.",
+      "char_offset": 98934,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Dependency on third-party suppliers and their technology to manufacture, assemble, test, or package our products reduces our control over product quantity and quality, manufacturing yields, and product delivery schedules and could harm our business.",
+      "char_offset": 101580,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Defects or failure of our offerings to perform to specifications could lead to substantial damage to the products in which our offerings have been integrated by OEMs, ODMs, AIB manufacturers, automotive manufacturers, and tier 1 automotive suppliers, and to the user of such end product.",
+      "char_offset": 106476,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "In general, if a product liability claim regarding any of our products is brought against us, even if the alleged damage is due to the actions or inactions of a third party, such as within our supply chain, the cost of defending the claim could be significant and would divert the efforts of our technical and management personnel and harm our business.",
+      "char_offset": 107997,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "other companies, which could adversely affect our ability to compete effectively; • increased credit and collectability risks, higher borrowing costs or reduced availability of capital markets, reduced liquidity, adverse impacts on our customers and suppliers; and • failures of counterparties, including financial institutions and insurers, asset impairments, and declines in the value of our financial instruments.",
+      "char_offset": 110454,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "We may have limited insight into the data privacy or security practices of third-party suppliers, including for our AI algorithms.",
+      "char_offset": 117422,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Additionally, we are incorporated into the supply chain of a large number of entities worldwide and, as a result, if our products or services are compromised, a significant number of our customers and their data could be affected, which could result in potential liability and harm our business.",
+      "char_offset": 118014,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "We must also continue to develop our security measures, including training programs and security awareness initiatives, designed to ensure our suppliers have appropriate security measures in place, and continue to meet the evolving security requirements of our customers, applicable industry standards, and government regulations.",
+      "char_offset": 118497,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "s and/or oversight, restrictions on processing data, litigation, indemnification obligations, reputational harm, diversion of funds, diversion of management attention, financial loss, loss of data, material disruptions in our systems and operations, supply chain, and ability to produce, sell and distribute our goods and services, and other similar harms.",
+      "char_offset": 120770,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Our corporate headquarters, a large portion of our current data center capacity, and a portion of our research and development activities are located in California, and other critical business operations, finished goods inventory and some of our suppliers are located in Asia, making our operations vulnerable to natural disasters such as earthquakes, wildfires or other business disruptions occurring in these geographical areas.",
+      "char_offset": 122466,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "The ultimate impact on us, our third-party foundries and other suppliers of being located and consolidated in certain geographical areas is unknown.",
+      "char_offset": 124474,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Our business and those of our suppliers and customers is subject to sustainability-related laws, regulations and lawsuits.",
+      "char_offset": 128192,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "rials used in manufacturing processes, increased capital expenditures to improve facilities and equipment, higher compliance and energy costs to reduce emissions, other compliance costs, and greater indirect costs resulting from our customers and/or suppliers incurring additional compliance costs that are passed on to us.",
+      "char_offset": 128622,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "We may also experience contractual disputes due to supply chain delays arising from climate change-related disruptions, which could result in increased litigation and costs.",
+      "char_offset": 129461,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "experienced and may continue to experience challenges including lengthy and costly systems integration, delays in purchasing and shipping products, difficulties with system integration via electronic data interchange and other processes with our key suppliers and customers, and training and change management needs of integration personnel.",
+      "char_offset": 135008,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "eements with companies developing foundation models, the markets in which we compete and our competition, our strategies, roadmaps, and efforts to develop, market, and sell hardware, software, and system solutions, and our agreements with customers, suppliers, and partners.",
+      "char_offset": 147356,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Such requests have been and are likely to be expensive and burdensome and could negatively impact our business and our relationships with customers, suppliers, and partners.",
+      "char_offset": 147702,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Export controls have and could in the future disrupt our supply chain and distribution channels, negatively impacting our ability to serve demand, including in markets outside China and for our non-data center products.",
+      "char_offset": 153786,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Additional export restrictions may not only impact our ability to serve overseas markets, but also provoke responses from foreign governments, including China, that negatively impact our supply chain or our ability to provide our products and services to customers in all markets worldwide, which could also substantially reduce our revenue.",
+      "char_offset": 154981,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "The increasingly complex export controls impose complex and burdensome compliance obligations on our partners, suppliers, and customers.",
+      "char_offset": 168081,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Further restrictions on our products or the products of our suppliers could negatively impact our business and financial results.",
+      "char_offset": 170914,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Scrutiny from shareholders, regulators and others regarding our corporate sustainability practices could result in additional costs or risks and adversely impact our reputation and willingness of customers and suppliers to do business with us.",
+      "char_offset": 171394,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "We could also incur additional costs and require additional resources to monitor, report, and comply with various corporate sustainability practices and legal requirements, choose not to conduct business with potential customers and suppliers, or discontinue or not expand business with existing customers and suppliers due to our policies.",
+      "char_offset": 172494,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "We also have a vendor risk assessment process consisting of, depending on the nature and sensitivity of the supplier and data they process on our behalf, the distribution and review of supplier questionnaires designed to help us evaluate cybersecurity risks that we may encounter when working with third parties that have access to confidential and other sensitive company information.",
+      "char_offset": 194896,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "We take steps to review that such vendors have implemented data privacy and security controls that help mitigate the cybersecurity risks associated with these vendors, depending on the nature and sensitivity of the supplier and data they process on our behalf.",
+      "char_offset": 195282,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "We routinely assess our high-risk suppliers’ conformance to industry standards (e.",
+      "char_offset": 195543,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Customers may postpone purchasing new architectures or may adopt new technologies more gradually than anticipated, affecting our revenue timing and supply chain expenses.",
+      "char_offset": 207273,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "These moves are expected to strengthen our supply chain, add resiliency and redundancy, and meet the growing demand for AI infrastructure.",
+      "char_offset": 208901,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Macroeconomic factors, including tariffs, inflation, interest rate changes, capital market volatility, global supply chain constraints, and global economic and geopolitical developments, have direct and indirect impacts on our results of operations, particularly demand for our products.",
+      "char_offset": 210540,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "While difficult to isolate and quantify, these macroeconomic factors impact our supply chain and manufacturing costs, employee wages, costs for capital equipment, the value of our investments, revenue and competitive position.",
+      "char_offset": 210828,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Within our supply chain, we continuously manage product availability and costs with our vendors.",
+      "char_offset": 211155,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "Conversely, decreases in the value of the United States’ dollar relative to other currencies could result in our suppliers raising their manufacturing costs.",
+      "char_offset": 241169,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    },
+    {
+      "type": "supplier",
+      "sentence": "We record a liability for noncancelable purchase commitments with suppliers for quantities in excess of our future demand forecasts consistent with our valuation of obsolete or excess inventory.",
+      "char_offset": 287174,
+      "source_file": "0001045810-26-000021_nvda-20260125.htm.txt"
+    }
+  ]
+}

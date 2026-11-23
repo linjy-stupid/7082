@@ -1,0 +1,13 @@
+{
+  "ticker": "SPY",
+  "source": "Yahoo Finance (via yfinance)",
+  "source_url": "https://finance.yahoo.com/quote/SPY/history",
+  "retrieved_at": "2026-11-18T01:21:09+08:00",
+  "interval": "1d",
+  "requested_period": "3y",
+  "rows": 752,
+  "first_date": "2023-11-17 00:00:00-05:00",
+  "last_date": "2026-11-17 00:00:00-05:00",
+  "sha256": "36e12191850e1989b89145bd96023e284861ba2a3723f03cddc6f38a5034e95e",
+  "note": "市场数据，非 SEC 官方；auto_adjust=False，保留原始 OHLC"
+}

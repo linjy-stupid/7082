@@ -1,0 +1,8 @@
+{
+  "ticker": "MSFT",
+  "source": "SEC EDGAR submissions (official)",
+  "source_url": "https://data.sec.gov/submissions/CIK0000789019.json",
+  "retrieved_at": "2026-11-18T01:12:49+08:00",
+  "bytes": 186831,
+  "sha256": "0c7415804bdda6f5daea74122223596eecc02ee5fe23de8e83cf4e2630ff03e0"
+}
